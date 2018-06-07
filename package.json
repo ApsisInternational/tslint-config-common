@@ -1,6 +1,6 @@
 {
   "name": "@apsis/tslint-config-common",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "tslint.js",
   "description": "The TSLint common config used by Apsis RND",
   "author": "Johanna Larsson <johanna.larsson@apsis.com>",
