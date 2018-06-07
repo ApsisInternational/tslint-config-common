@@ -23,11 +23,6 @@ module.exports = {
       140
     ],
     "member-access": false,
-    "member-ordering": [
-      true,
-      "static-before-instance",
-      "variables-before-functions"
-    ],
     "no-arg": true,
     "no-bitwise": true,
     "no-console": [
