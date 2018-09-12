@@ -97,5 +97,7 @@ module.exports = {
       "check-separator",
       "check-type"
     ],
+    "await-promise": true,
+    "no-return-await": true,
   }
 };
