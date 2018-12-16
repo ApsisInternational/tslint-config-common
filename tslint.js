@@ -10,7 +10,6 @@ module.exports = {
     "curly": true,
     "eofline": true,
     "forin": true,
-    "import-blacklist": [true, "rxjs"],
     "import-spacing": true,
     "indent": [
       true,
